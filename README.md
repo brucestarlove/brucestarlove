@@ -2,6 +2,8 @@
 
 just a guy with "a masterful blend of talent, intelligence, creativity and articulation" now looking to join a good team at a real company to continue developing my engineering and leadership skills, while I pursue my hobbies, health and passion projects. Senior Developer Relations Engineer seems like the best fit (corroborated by many people I know), but I would also be happy as just an Engineer with the right team, technologies and flexibility for my unique contributions!
 
+Interested to work on-site/hybrid, in New York City, Richmond VA or Cincinnati. Preference to NYC–I've been here since June, staying for free (cat/house-sitting) at various places around town, now looking to get my own place!
+
 here's a tiny about-me with info relevant to my skills, interests and work gaps: [README-aboutme.md](README-AboutMe.md)
 
 I have a couple cool, private projects on here which demonstrate my engineering and creativity compentency. See READMEs below. If you are an employer inspecting my github: email me and I'll give access.
