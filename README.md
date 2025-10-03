@@ -2,20 +2,22 @@
 
 just a guy with "a masterful blend of talent, intelligence, creativity and articulation" now looking to join a good team at a real company to continue developing my engineering and leadership skills, while I pursue my hobbies, health and passion projects. Senior Developer Relations Engineer seems like the best fit (corroborated by many people I know), but I would also be happy as just an Engineer with the right team, technologies and flexibility for my unique contributions!
 
-Interested to work on-site/hybrid, in New York City, Richmond VA or Cincinnati. Preference to NYC–I've been here since June, staying for free (cat/house-sitting) at various places around town, now looking to get my own place!
-
 here's a tiny about-me with info relevant to my skills, interests and work gaps: [README-aboutme.md](README-AboutMe.md)
 
 I have a couple cool, private projects on here which demonstrate my engineering and creativity compentency. See READMEs below. If you are an employer inspecting my github: email me and I'll give access.
+
+Interested to work on-site/hybrid, in New York City, Richmond VA or Cincinnati. Preference to NYC–I've been here since June, staying for free (cat/house-sitting) at various places around town, now looking to get my own place!
+
+Open to financial patronage by benefactors wishing to fund me to pursue my own projects full-time! This seems unlikely, despite all the dozens of people who verbally support me. I also genuinely want to work a job in a team–it's either I afford to co-create my own team, or join an existing one!
 
 ## 2025 work
 - `KPC Technologies` and `Protoframe` - advising on AI & developing Protoframe. Shifting into client development work when it comes, or into a job with benefits if you hire me!
 - `Fractal Tech AI Accelerator` - an intense AI software engineering bootcamp. Two weeks in, with renewed passion and work ethic, I leave to join startup KPC Technologies and pursue some other ideas. Now looking to work for a team with more motion!
 - `Hellscape Digital & Hellscape Connect` - Social & music-sharing platform for underground artists. 130+ real commits in 4 day hackathon this week. Function first, form to-follow (redesign in-progress). see [README-Hellscape.md](README-Hellscape.md).
 - `Earth Village` platform to spin-off into `Virtual Villages` PaaS - see [README-EarthVillageCIC.md](README-EarthVillageCIC.md)
-- `Friends of Fort Greene Park` - massive website & informational redesign to promote an activist project in Brooklyn, NY. re-invigorated the team in their 8th year of campaign, organized them to get the ball rolling again, co-designed flyers and organized volunteer action around the park. see [README-ffgp.md](README-ffgp.md)
+- `Friends of Fort Greene Park` - [massive website & informational redesign](https://friendsoffortgreenepark.org/) to promote an activist project in Brooklyn, NY. re-invigorated the team in their 8th year of campaign, organized them to get the ball rolling again, co-designed flyers and organized volunteer action around the park. see [README-ffgp.md](README-ffgp.md)
 - `More Monuments` - Webflow design & development for US nonprofit. Developed an [interactive map & library](https://www.moremonuments.org/ecosystem) via repos `mm-map` and `mm-proxy` (overkill Astro app to run free on Webflow Cloud)
-- `Students of Spiritual Science Symposium` - Third year organizing it, first year presenting "The Future is Decentralized" telling the story and technicals of general decentralized systems. This symposium blends scientific research from PhD students with artists & mystics in a gathering of forward-thinking visionaries, perennial philosophers and healers.
+- `Students of Spiritual Science Symposium` - Third year organizing it, first year presenting "The Future is Decentralized" telling the story and technicals of general decentralized systems. [This symposium](https://newparadigmnavigators.community/symposium/) blends scientific research from PhD students with artists & mystics in a gathering of forward-thinking visionaries, perennial philosophers and healers.
 - `New Paradigm Navigators` and `The Scientific & Medical Network` - website development, webinar hosting, event organizing and various tech tasks.
 - `starlove.world` - personal static site idea built on Astro, TODO: rebuild in Next with auth and fancy features for patrons & supporters.
 - `starscape.digital` - (currently developing) site to showcase my personal client work as I scale into a real (but low profit, for good) company.
