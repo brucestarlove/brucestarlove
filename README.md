@@ -4,7 +4,7 @@
 
 I'm a tech tinker, systems thinker, and creative technologist who has experimented a lot and now wants to join an existing company to grow and co-create bigger things. I still have much to learn, and desire to make greater impact expeditiously. I blend broad technical understanding with deep obsession, emotional intelligence, and a lifelong passion for understanding & solving problems.
 
-My background spans enterprise consulting, developer education, community organizing, and creative tech. I've led nonprofit web revamps, built community platforms from scratch, co-founded & managed student organizations (including my university's first hackathon, RAMHacks, 2014-2016), hosted dozens of webinars and interviews, and organized interdisciplinary symposia.
+My background spans enterprise consulting, developer education, community organizing, and creative tech. I've led nonprofit web revamps, built community platforms from scratch, co-founded & managed student organizations (including my university's first hackathon, RamHacks, 2014-2016), hosted dozens of webinars and interviews, and organized interdisciplinary symposia.
 
 I've recently been advising an early-stage startup and supporting small-org clients, while further developing my technical skills and prototyping several ambitious apps. I took a long sabbatical during the COVID-19 pandemic for health and exploration, while helping some small organizatons at-cost.
 
@@ -66,7 +66,7 @@ Nonprofit commissioning and building landmark monuments and awe-inspiring megast
 - **Platforms & CMS:** Wordpress, Webflow, Shopify, Stripe, Bloomreach CMS, Contentful and other headless CMS, Ethereum/Polygon, Solana
 - **Data & Auth:** PostgreSQL, Drizzle / Prisma, MongoDB, Supabase, NextAuth, OAuth, JWT
 - **Infra:** AWS, Vercel, Railway, Netlify, Supabase, Neon, Jenkins, Docker, learning Temporal
-- **Testing:** Jest/Vitest, Playwright, Cypress,, JUnit, Mockito, Cucumber, Postman
+- **Testing:** Jest/Vitest, Playwright, Cypress, JUnit, Mockito, Cucumber, Postman
 - **Dev Tools:** VSCode/Cursor, npm/pnpm/Yarn/Bun, Vite, Webpack/Turbopack, Zod, Postman
 - **AI Tools:** OpenAI, Structify, Cursor, Claude Code, ChatGPT, Codex, Gemini, Grok, Lovable, v0, MagicPath, MagicPatterns, Midjourney, Leonardo, Kapwing
 - **Other Tools:** Trello, Notion, Figma, Canva, Excalidraw, Prezi & slideshow software, spreadsheet software, various photo & video editors, Brain.fm for focus
