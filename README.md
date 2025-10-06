@@ -21,7 +21,7 @@ I've recently been advising an early-stage startup and supporting small-org clie
 
 ## 🚀 recent projects
 
-### 🌍 Earth Village -> Virtual Villages
+### 🌍 Earth Village → Virtual Villages
 
 Private community platforms for intentional living networks.
 

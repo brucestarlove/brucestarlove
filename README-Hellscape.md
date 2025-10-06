@@ -25,7 +25,6 @@ At the core of Hellscape Digital is a rich data model implemented in **src/lib/s
 - **Collectibles Game –** A novel “energy drink” system is implemented via `collectibleItems` and `userInventory`. Players collect and trade energy drink items with cooldowns and rarities, fuelling social actions like post boosts
 - **Media & Playlists –** Dedicated tables for `anjuSongs`, `anjuPlaylists` and `anjuPlaylistSongs` support thousands of tracks from multiple sources (YouTube, SoundCloud, S3) and allow users to create, star and reorder playlists
 
-
 ## Authentication & Middleware
 
 Hellscape Digital implements a robust auth flow. auth.ts configures NextAuth with GitHub and credentials providers, using bcrypt to validate passwords against the database. JWT callbacks hydrate session objects with full user data (including artist slugs and roles). The app uses Next.js middleware to enforce access control:
@@ -67,4 +66,4 @@ Two distinct visual identities coexist:
 
 ## Impact & Uniqueness
 
-Hellscape Digital Alpha demonstrates the ability to migrate a static, content‑heavy site to a modern full‑stack platform while introducing innovative social features. The engineering challenge involved designing a relational schema that supports music streaming, social interactions, commerce and gamification; integrating Stripe for payments and memberships; building a responsive UI with a persistent music player; and combining mixed media sources into unified playlists. The result is a distinctive portfolio piece that showcases proficiency in Next.js, TypeScript, SQL design, authentication, e‑commerce, real‑time interactivity, and creative UI/UX design.
+Hellscape Digital Alpha demonstrates the ability to migrate a static, content‑heavy site to a modern full‑stack platform while introducing innovative social features. The engineering challenge involved designing a relational schema that supports music streaming, social interactions, commerce and gamification; integrating Stripe for payments and memberships; building a responsive UI with a persistent music player; combining mixed media sources into unified playlists; and integration with the Fediverse via ActivityPub The result is a distinctive portfolio piece that showcases proficiency in Next.js, TypeScript, SQL design, authentication, e‑commerce, real‑time interactivity, and creative UI/UX design.
