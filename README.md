@@ -1,10 +1,12 @@
 # ✨ hello and good tidings 🌊
 
-I'm a tech tinker, systems thinker, and creative technologist seeking a great team (and, in time, to build one). I still have much to learn, and desire to make greater impact expeditiously. I blend broad technical understanding with deep obsession, emotional intelligence, and a lifelong passion for understanding & solving problems. I've had an unconventional career and life in pursuit of joy, love, self-knowledge and universal truth. Now, I just want to create valuable things.
+**Looking for full-time hybrid employment with a company that values initiative, creativity, growth, care and excellent user experience**
 
-My background spans enterprise consulting, developer education, community organizing, and creative tech. I've led nonprofit web revamps, built community platforms from scratch, co-founded & managed several student organizations (including my university's first hackathon, RAMHacks, 2014-2016), hosted dozens of webinars and interviews, and organized interdisciplinary symposia.
+I'm a tech tinker, systems thinker, and creative technologist who has experimented a lot and now wants to join an existing company to grow and co-create bigger things. I still have much to learn, and desire to make greater impact expeditiously. I blend broad technical understanding with deep obsession, emotional intelligence, and a lifelong passion for understanding & solving problems.
 
-I've recently been advising an early-stage startup and supporting small-org clients, while further developing my technical skills and prototyping several ambitious apps. I'm looking for a role that values initiative, growth and great user experience.
+My background spans enterprise consulting, developer education, community organizing, and creative tech. I've led nonprofit web revamps, built community platforms from scratch, co-founded & managed student organizations (including my university's first hackathon, RAMHacks, 2014-2016), hosted dozens of webinars and interviews, and organized interdisciplinary symposia.
+
+I've recently been advising an early-stage startup and supporting small-org clients, while further developing my technical skills and prototyping several ambitious apps. I took a long sabbatical during the COVID-19 pandemic for health and exploration, while helping some small organizatons at-cost.
 
 ---
 
@@ -73,6 +75,6 @@ Community-powered petition and campaign site.
 - Sabbatical and deep self-work: therapy, travel, meditation, reading, nutrition, gym, martial arts, addiction recovery
 - Explored other paths: sales, educational content, blockchain, community leadership, politics/civil service, civic tech, music
 
-> "I want to be an essential part of a company and win a lot—like in my old hardcore WoW guild."
+> "I want to be an essential part of a company that values initiative, creativity and care, and to win a lot—like in my old hardcore WoW guild."
 
 Let’s build helpful things in these uncertain times.
