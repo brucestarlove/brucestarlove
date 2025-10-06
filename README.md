@@ -1,6 +1,6 @@
 # ✨ hello and good tidings 🌊
 
-**Looking for full-time hybrid employment with a company that values initiative, creativity, growth, care and excellent user experience**
+**Looking for full-time hybrid employment with a company that values initiative, creativity, growth and excellent user experience**
 
 I'm a tech tinker, systems thinker, and creative technologist who has experimented a lot and now wants to join an existing company to grow and co-create bigger things. I still have much to learn, and desire to make greater impact expeditiously. I blend broad technical understanding with deep obsession, emotional intelligence, and a lifelong passion for understanding & solving problems.
 
@@ -57,9 +57,7 @@ Community-powered petition and campaign site.
 - **Other Tools:** Trello, Notion, Figma, Canva, Excalidraw, Prezi & slideshow software, spreadsheet software, various photo & video editors, Brain.fm for focus
 - **Accessibility & compliance:** WCAG, ARIA, ADA, GDPR, HIPAA
 
-- Other skills: self-reflexivity, endless curiosity, professional etiquette (e.g. representing company at networking events), presentation, articulation*, intuition, emotional regulation, going with the flow, discernment (slop/bs detector), cooking, filtering for the best grocery deals, archery, and other things
-
-* wide vocabulary and social experience, can teach & inspire anyone including non-English native speakers
+**Other skills:** self-reflexivity, endless curiosity, professional etiquette (e.g. representing company at networking events), presentation, articulation, intuition, emotional regulation, going with the flow, discernment (slop/bs detector), cooking, filtering for the best grocery deals, archery, and some other stuff :)
 
 ---
 
