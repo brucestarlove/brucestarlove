@@ -60,8 +60,8 @@ Nonprofit commissioning and building landmark monuments and awe-inspiring megast
 
 ## 🧬 skills snapshot
 
-- Languages: TypeScript/JavaScript, Java, C#, SQL, PHP, Lua, learning Python
-- Frameworks: React, Next.js, Astro, Angular, Vue, Spring Boot, .NET, Ionic, Android, iOS, Unity3D
+- **Languages:** TypeScript/JavaScript, Java, C#, SQL, PHP, Lua, learning Python
+- **Frameworks:** React, Next.js, Astro, Angular, Vue, Spring Boot, .NET, Ionic, Android, iOS, Unity3D
 - **UI:** Tailwind CSS, Radix/Shadcn, Framer Motion, GSAP, Material UI, Bootstrap, SCSS
 - **Platforms & CMS:** Wordpress, Webflow, Shopify, Stripe, Bloomreach CMS, Contentful and other headless CMS, Ethereum/Polygon, Solana
 - **Data & Auth:** PostgreSQL, Drizzle / Prisma, MongoDB, Supabase, NextAuth, OAuth, JWT
