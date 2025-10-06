@@ -22,29 +22,44 @@ I've recently been advising an early-stage startup and supporting small-org clie
 ## 🚀 recent projects
 
 ### 🌍 Earth Village -> Virtual Villages
+
 Private community platforms for intentional living networks.
+
 - Custom role system, auth, event calendar & tickets, educational courses, voice notes, 3D "life-like" navigation
 - Next.js 15, PostgreSQL + Drizzle, Stripe, Tailwind, AWS S3
 - Shipping to first client, expanding to multi-tenant PaaS
 - [Read the full technical breakdown →](README-EarthVillageCIC.md)
 
 ### 🎧 Hellscape Digital + Hellscape Connect
+
 Half public site for a music collective, half social music-sharing platform for all underground artists
+
 - Mixed-source playlists, custom media players, custom profiles, messaging, e-commerce, collectibles economy and other gamification elements
 - 2000s web aesthetics (think MySpace, Windows Vista, Futiger Aero)
 - Built on similar technical foundation as Virtual Villages (above)
 - [Read the full technical breakdown →](README-Hellscape.md)
 
 ### 🌳 Friends of Fort Greene Park
+
 Community-powered petition and campaign site.
+
 - React/Next.js frontend for activist coalition
 - Synthesized all scattered information into a fully redesigned website
 - Reinvigorated the 8-year movement with my passion & vision, refreshed socials, co-designed flyers, orchestrating volunteer action
 - [Read the campaign summary →](README-ffgp.md)
 
+### 🗽 More Monuments
+
+Nonprofit commissioning and building landmark monuments and awe-inspiring megastructures in celebration of American ambition and artistry.
+
+- Webflow design, development, copywriting.
+- Created interactive map and library embedded into the Ecosystem page
+- [View it here →](https://www.moremonuments.org/ecosystem)
+
 ---
 
 ## 🧬 skills snapshot
+
 - Languages: TypeScript/JavaScript, Java, C#, SQL, PHP, Lua, learning Python
 - Frameworks: React, Next.js, Astro, Angular, Vue, Spring Boot, .NET, Ionic, Android, iOS, Unity3D
 - **UI:** Tailwind CSS, Radix/Shadcn, Framer Motion, GSAP, Material UI, Bootstrap, SCSS
@@ -64,12 +79,14 @@ Community-powered petition and campaign site.
 ## 🛤 recent timeline
 
 2025:
+
 - AI engineer and UX advisor at KPC Technologies
 - Prototyped modular creative-social platforms
 - Organized third annual symposium and presented high-level research on all things Decentralization
 - Designed and built nonprofit sites, advised local businesses, mentored developers, hosted webinars
 
 2021–2024:
+
 - Sabbatical and deep self-work: therapy, travel, meditation, reading, nutrition, gym, martial arts, addiction recovery
 - Explored other paths: sales, educational content, blockchain, community leadership, politics/civil service, civic tech, music
 
