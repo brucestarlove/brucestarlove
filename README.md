@@ -1,6 +1,6 @@
 # ✨ hello and good tidings 🌊
 
-**Looking for full-time hybrid employment with a company that values initiative, creativity, growth and excellent user experience**
+**Looking for full-time hybrid employment with a team that values initiative, creativity, growth and excellent user experience**
 
 I'm a tech tinker, systems thinker, and creative technologist who has experimented a lot and now wants to join an existing company to grow and co-create bigger things. I still have much to learn, and desire to make greater impact expeditiously. I blend broad technical understanding with deep obsession, emotional intelligence, and a lifelong passion for understanding & solving problems.
 
