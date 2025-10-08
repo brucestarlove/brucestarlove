@@ -76,20 +76,6 @@ Nonprofit commissioning and building landmark monuments and awe-inspiring megast
 
 ---
 
-## 🛤 recent timeline
-
-2025:
-
-- AI engineer and UX advisor at KPC Technologies
-- Prototyped modular creative-social platforms
-- Organized third annual symposium and presented high-level research on all things Decentralization
-- Designed and built nonprofit sites, advised local businesses, mentored developers, hosted webinars
-
-2021–2024:
-
-- Sabbatical and deep self-work: therapy, travel, meditation, reading, nutrition, gym, martial arts, addiction recovery
-- Explored other paths: sales, educational content, blockchain, community leadership, politics/civil service, civic tech, music
-
 > "I want to be an essential part of a company that values initiative, creativity and care, and to win a lot—like in my old hardcore WoW guild."
 
 Let’s build helpful things in these uncertain times.
