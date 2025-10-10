@@ -21,6 +21,8 @@ I've recently been advising an early-stage startup and supporting small-org clie
 
 ## 🚀 recent projects
 
+- scored a 44/50 on my first practiced CCAT exam, yet I'm disatisfied. a part of me always is, and I tenderly appreeciate that now. but fr I should score higher...
+
 ### 🌍 Earth Village → Virtual Villages
 
 Private community platforms for intentional living networks.
