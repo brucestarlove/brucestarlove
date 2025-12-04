@@ -72,22 +72,4 @@ Nonprofit commissioning and building landmark monuments and awe-inspiring megast
 
 **Other skills:** self-reflexivity, endless curiosity, professional etiquette (e.g. representing company at networking events), presentation, articulation, intuition, emotional regulation, going with the flow, discernment (slop/bs detector), cooking, filtering for the best grocery deals, archery, and some other stuff :)
 
----
-
-## 🛤 recent timeline
-
-2025:
-
-- AI engineer and UX advisor at KPC Technologies
-- Prototyped modular creative-social platforms
-- Organized third annual symposium and presented high-level research on all things Decentralization
-- Designed and built nonprofit sites, advised local businesses, mentored developers, hosted webinars
-
-2021–2024:
-
-- Sabbatical and deep self-work: therapy, travel, meditation, reading, nutrition, gym, martial arts, addiction recovery
-- Explored other paths: sales, educational content, blockchain, community leadership, politics/civil service, civic tech, music
-
-> "I want to be an essential part of a company that values initiative, creativity and care, and to win a lot—like in my old hardcore WoW guild."
-
-Let’s build helpful things in these uncertain times.
+> Let’s build helpful things in these uncertain times.
